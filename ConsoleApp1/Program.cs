@@ -22,7 +22,9 @@ namespace A
 
             Console.ResetColor();
 
-            Console.WriteLine("\nhi");
+            Console.WriteLine("\nhi, hello, hello, hi");
+            Console.WriteLine("\nhi, hello, hello, hi");
+            Console.WriteLine("\nhi, hello, hello, hi");
         }
     }
 }
